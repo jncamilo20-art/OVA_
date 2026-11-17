@@ -2,7 +2,7 @@
 
 Objeto Virtual de Aprendizaje (OVA) interactivo para el curso de **Teoría de Sistemas** — **Universidad Simón Bolívar, Campus Cúcuta**.
 
-- **Enlace público (GitHub Pages):** `https://jncamilo20-art.github.io/OVA/`
+- **Enlace público (GitHub Pages):** `https://jncamilo20-art.github.io/OVA_/`
 - **Enlace directo (Raw.githack):** `https://raw.githack.com/jncamilo20-art/OVA/main/index.html`
 
 ## Contenido
